@@ -1,0 +1,6 @@
+{
+  "name": "AURA — Holo-Trainer",
+  "description": "Digital Twin, AR, VR, and MR-enabled virtual gym training platform with real-time pose form correction, holographic 3D avatar, and WebXR experiences.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
